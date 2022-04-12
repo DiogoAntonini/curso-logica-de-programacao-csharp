@@ -10,6 +10,10 @@ namespace cccccccc
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("owo");
+
+            Console.ReadLine();
         }
     }
 }
