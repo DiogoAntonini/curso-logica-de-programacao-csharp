@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace cccccccc
+namespace Practice1
 {
     internal class Program
     {
